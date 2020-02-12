@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'Ben's Design'
+    title: 'Design by Ben'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
