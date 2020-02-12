@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: ben.finlay@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
@@ -8,7 +8,7 @@ name: Ben Finlay
 title: Ben's Design Portfolio
 description: >
   Ben is a graphic desginer specialised in large format print based out of Sydney. This is a space where Ben show cases some of his works, feel free to poke around and get in touch. 
-url: http://barber.samesies.io
+url: http://j-bramwell.github.io
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
@@ -36,9 +36,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Ben Finlay
+    bio: Ben is a graphic designer born and raised in Sydney, Australia. He was deeply involved in all aspects of large format print business, but now he's focusing on concepting.
+    url: http://j-bramwell.github.io
 
 # Pagination settings
 pagination:
