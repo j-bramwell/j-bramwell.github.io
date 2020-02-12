@@ -1,14 +1,14 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: ben.finlay@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: Ben Finlay
+title: Design by Ben
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+  This page contains design by Ben. 
+url: https://goofy-almeida-acdb27.netlify.com/
 twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
@@ -36,9 +36,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Ben Finlay
+    bio: Ben Finlay was born and raised in Sydney. He was trained as a graphic designer, worked in almost all roles in large format print industry, and is recently focusing on concepting and pre-press management. 
+    url: https://goofy-almeida-acdb27.netlify.com/
 
 # Pagination settings
 pagination:
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Design by Ben'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
